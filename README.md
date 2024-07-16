@@ -57,4 +57,3 @@ ForoHub es una API REST para gestionar tópicos en un foro. Permite crear, leer,
 ## Licencia
 
 Este proyecto está licenciado bajo la Licencia MIT.
-```
